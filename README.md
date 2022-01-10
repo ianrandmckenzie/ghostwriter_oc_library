@@ -1,2 +1,2 @@
 # Ghostwriter OC Library
-A place to easily sync my written works for Minecraft using git and GitHub.
+A place to easily sync my original written works for Minecraft across my devices using git and GitHub.
