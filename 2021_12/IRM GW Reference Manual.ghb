@@ -1,0 +1,122 @@
+//Book saved in GHB format at 2021-12-26T0742.91Z
+title:IRM GW Reference Manual
+author:ianrandmckenzie
+//=======================================
+Personal Ghostwriter ##
+Reference Manual§0##
+§0by ianrandmckenzie§0##
+§0Dec. 25, 2021§0##
+§0##
+§0P.2: Quick Reference§0##
+§0P.4: Links§0##
+§0P.5: External Edits§0##
+§0P.6: Format Example§0##
+§0P.7: Preventing Bugs§0##
+§0P.8: Activate Cryptic§0##
+§0P.9: Mystery Button§r##
+>>>>
+Black§0##
+§1Dark blue§0##
+§2Dark green§0##
+§3Turqoise§0##
+§4Maroon§0##
+§5Fuscia§0##
+§6Orange§0##
+§7Light grey§0##
+§8Dark grey§0##
+§9Light blue§0##
+§aBright green§0##
+§bCyan§0##
+§cRed§0##
+§r##
+>>>>
+§dMagenta§0##
+§eYellow§0 (Yellow)§0##
+§fWhite§0 (White)§0##
+§0§lBold§0##
+§0§mStrikethrough§0##
+§0§nUnderline§0##
+§0§oItalic§0##
+§0§kcryptic§0 (cryptic)§0##
+§r##
+>>>>
+§nLinks§0##
+§0##
+§0§lBase URL:§0##
+§0https://github.com/waf##
+fle-stomper/Ghostwrit##
+er§0##
+§0##
+§0§lWiki:§0##
+§0/wiki§0##
+§0##
+§0§lReleases:§0##
+§0/releases§r##
+>>>>
+§nExternal Edits:§0##
+§0##
+§0Open this book's .ghb§0##
+§0file in a text editing§0##
+§0program that can read§0##
+§0and write .txt files.§0##
+§0##
+§0Each line on pages 1§0##
+§0and 2 is prepended§0##
+§0with a dollar-sign§0##
+§0looking character and§0##
+§0another character.§0##
+§r##
+>>>>
+These characters§0##
+§0determine the color§0##
+§0and formatting.§0##
+§0##
+§0Colors can be§0##
+§0combined with§0##
+§0formatting.§0##
+§0##
+§nFormat Example:§0##
+§2§l§kofihwohfgo2i3h9§0##
+§0Above is an example of§0##
+§0dark green, bold, and§0##
+§0cryptic in combination.§0##
+§r##
+>>>>
+§nPreventing Bugs:§0##
+§0When using special§0##
+§0formatting, be sure to§0##
+§0click "Reset§0##
+§0Formatting" to prevent§0##
+§0unintended§0##
+§0consequences.§0##
+§0##
+§0If you forget to do so,§0##
+§0formatting may persist§0##
+§0when you re-open the§0##
+§0book, even though§0##
+§r##
+>>>>
+it looks proper when§0##
+§0you are editing.§0##
+§0##
+§0§nActivate Cryptic:§0##
+§0If you need it ##
+explicitly stated, the # ##
+next to §0§lB§0 in the menu ##
+is used to switch to ##
+cryptic text mode.§0##
+§0§r##
+>>>>
+##
+§0§nWhat the hell does the ##
+§nbutton next to ##
+§n# cryptic do??? ##
+It's not actually a ##
+button. It is whatever ##
+your item in offhand ##
+slot is. Your normal UI ##
+is underneath the ##
+Ghostwriter icons. ##
+There isn't enough ##
+icons to hide your ##
+offhand.§r##

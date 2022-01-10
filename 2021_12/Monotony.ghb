@@ -1,0 +1,688 @@
+//Book saved in GHB format at 2021-12-22T2202.448Z
+title:Monotony
+author:ianrandmckenzie
+//=======================================
+Monotony§0##
+§0by ianrandmckenzie§0##
+§0Dec. 22, 2021§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§0##
+§0##
+§0i open book§0##
+§0i load book§0##
+§0i open folder§0##
+§0i paste§0##
+§0i sign§0##
+§0i close§r##
+>>>>
+i finish.§0##
+§0##
+§0library stocked.§0##
+§0##
+§0thanks for the invite ##
+to your base.§0##
+§0##
+§0bye!§r##
+>>>>
+Thanks for reading!§0##
+§0You can find more of§0##
+§0my works on:§0##
+§9ianrandmckenzie.com§0##
+§0##
+§0While you're at it,§0##
+§0check out the social§0##
+§0app for Minecrafters:§0##
+§9enderbook.com§0##
+§0##
+§0Much love from§0##
+§0Canada. -Ian§0##
+§r##
